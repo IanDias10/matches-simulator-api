@@ -8,12 +8,12 @@
    "mandante": {
     "nome": "Flamengo",
     "forca": 5,
-    "imagem": "TODO"
+    "imagem": "https://logodetimes.com/wp-content/uploads/flamengo.png"
    },
    "visitante": {
     "nome": "Corinthians",
     "forca": 5,
-    "imagem": "TODO"
+    "imagem": "https://logodetimes.com/wp-content/uploads/corinthians.png"
    },
   }
 ]
